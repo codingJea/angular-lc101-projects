@@ -1,6 +1,3 @@
-a {
-    /* justify-content: center; */
-    /* visibility: hidden; */
-    /* text-align: center; */
-    align-content: center;
+.links {
+    text-align: center;
 }
