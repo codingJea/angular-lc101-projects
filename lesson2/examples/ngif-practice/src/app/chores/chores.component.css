@@ -16,3 +16,12 @@ img {
     display: block;
     margin: auto;
 }
+
+.iceCream {
+    color: rgb(55, 137, 55);
+    /* visibility: hidden; */
+}
+
+p {
+    text-align: center;
+}
